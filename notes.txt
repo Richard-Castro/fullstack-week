@@ -1,0 +1,9 @@
+ Criando projeto Next
+
+npx create-next-app@latest
+
+yes pra tudo - nao pra Alias
+
+npm install prisma --save-dev
+
+npx prisma init --datasource-provider postgresql
